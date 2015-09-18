@@ -1,1 +1,1 @@
-$("#main").append([Raspurrin]);
+$("#main").append("Raspurrin");
